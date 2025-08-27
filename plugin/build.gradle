@@ -28,7 +28,7 @@ dependencies {
     compileOnly 'org.ow2.asm:asm:9.3'
     compileOnly 'com.android.tools.build:gradle:8.0.2'
     compileOnly "com.bytedance.android:aabresguard-plugin:0.1.10"
-    compileOnly 'com.tencent.mm:AndResGuard-gradle-plugin:1.2.21'
+    compileOnly 'cn.lalaki.AndResGuard:cn.lalaki.AndResGuard.gradle.plugin:1.8.1-final'
 
     testImplementation 'junit:junit:4.13.2'
 }

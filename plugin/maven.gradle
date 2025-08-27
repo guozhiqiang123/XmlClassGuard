@@ -9,4 +9,8 @@ publishing {
             version "$plugin_version"
         }
     }
+
+    repositories {
+        mavenLocal()
+    }
 }
